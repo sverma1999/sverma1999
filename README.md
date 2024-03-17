@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/iam-shubham-verma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="23"></a>
     <a href="mailto:vshubhamkam05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23"></a>
     <a href="https://shubham05-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height="23"></a>
-    <a href="https://leetcode.com/salaheddineaitdaoud"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="23"></a>
+    <a href="https://leetcode.com/sverma1999/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="23"></a>
   </p>
   <a href="https://shubham05-portfolio.netlify.app/">
     <p><b>Click here to explore some of my interesting work</b></p>
